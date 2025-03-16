@@ -30,16 +30,16 @@ Welcome to the **Rock, Paper, Scissors Game**! This is a fun and interactive Pyt
     ```bash
          python rock_paper_scissors.py
 
-##**Technologies Used**
+## **Technologies Used**
 - Programming Language: Python
 - Libraries: random
 
-##**Future Enhancements**
+## **Future Enhancements**
 - Add a graphical user interface (GUI) using tkinter or pygame.
 - Track scores and display a leaderboard.
 - Add a multiplayer mode where two players can compete.
 
-##**Contributing**
+## **Contributing**
 
 Feel free to contribute to this project! If you have any suggestions or improvements, open an issue or submit a pull request.
 
