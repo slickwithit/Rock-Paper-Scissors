@@ -43,7 +43,7 @@ Welcome to the **Rock, Paper, Scissors Game**! This is a fun and interactive Pyt
 
 Feel free to contribute to this project! If you have any suggestions or improvements, open an issue or submit a pull request.
 
-##**License**
+## **License**
 
 This project is open-source and available under the MIT License.
 
